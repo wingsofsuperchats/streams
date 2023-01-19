@@ -37,6 +37,7 @@ jobs:
     
       - name: Build
         run: |
+          pip3 install python-dateutil
           pip3 install emoji
           python3 makeindexhtml.py
           python3 makehtml.py
