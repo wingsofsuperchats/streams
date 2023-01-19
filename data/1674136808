@@ -1,0 +1,90 @@
+[
+    {
+        "event": "start",
+        "time": 1674136808,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1674136856,
+        "author": "KutzM240B",
+        "author_id": "UCMhJILj_PZcYhgOla7_4FJg",
+        "text": "What kind of chair do you game with?",
+        "usd": 4.99
+    },
+    {
+        "event": "superchat",
+        "time": 1674139955,
+        "author": "Uhhh Okay",
+        "author_id": "UC_HuTfir7OYseSejAkYiTZw",
+        "text": "Do you have quiktrips in conway?",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1674142900,
+        "author": "Charles",
+        "author_id": "UCU-tnmlCKtMU6ib6zT-ZbjA",
+        "text": "No",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1674143005,
+        "author": "Serial Experiments Review",
+        "author_id": "UC2JOMcu3D94VTwdxEpwpeBw",
+        "text": "roommate and i watch you religiously on the living room tv and at the airport ",
+        "usd": 10.0
+    },
+    {
+        "event": "superchat",
+        "time": 1674143271,
+        "author": "Daryl Scott",
+        "author_id": "UCGrn1PfuvihUSRRwqY8IaHA",
+        "text": "Bro you getting biiiiiiig, maybe lay off the Pepsi for a lil while.",
+        "usd": 9.99
+    },
+    {
+        "event": "superchat",
+        "time": 1674143425,
+        "author": "Six70two",
+        "author_id": "UCf4K-n3BgVVWKujMoAbqPTw",
+        "text": "can you PLEASE unhide your trophies on PSN maybe just for those on your friends list ",
+        "usd": 6.72
+    },
+    {
+        "event": "superchat",
+        "time": 1674143433,
+        "author": "Sky Hager",
+        "author_id": "UCgdpZ7JFySNLRxxOMAZD39w",
+        "text": "Ayo Wings, it's Serial Experiments Review's roommate. This is a Wings-only household, lemme throw some shekels your way piiiiimp",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1674143538,
+        "author": "Serial Experiments Review",
+        "author_id": "UC2JOMcu3D94VTwdxEpwpeBw",
+        "text": "Yooooo that's my roommate, much love for you pimp thanks for always providing great streams",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1674143965,
+        "author": "GitmoChalee",
+        "author_id": "UCdzzd4xV7rywUDspdhh7URQ",
+        "text": "If your leg is amputated will you film the preparation process leading up to the surgery? Could be good content and make a lot of money",
+        "usd": 4.99
+    },
+    {
+        "event": "end",
+        "time": 1674147150,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 50.68
+    }
+]

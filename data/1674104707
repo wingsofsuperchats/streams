@@ -1,0 +1,106 @@
+[
+    {
+        "event": "start",
+        "time": 1674104707,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1674104860,
+        "author": "Dennis",
+        "author_id": "UCemcubPUBt1JVlfDzk4LHfg",
+        "text": "What’s up pimp, any maps you like to see them add in Season 2? I would like High Rise or Afghan",
+        "usd": 4.99
+    },
+    {
+        "event": "superchat",
+        "time": 1674106321,
+        "author": "MidwestFilms",
+        "author_id": "UCHEskBMKrUA9x8fG5es1JeQ",
+        "text": "Yo hope u doin well. looks like the rpg grind is hell lol",
+        "usd": 10.0
+    },
+    {
+        "event": "superchat",
+        "time": 1674106337,
+        "author": "Krasko",
+        "author_id": "UCyhHH4ED-3_Kpx5VHJfaEYw",
+        "text": "None",
+        "usd": 0.68
+    },
+    {
+        "event": "superchat",
+        "time": 1674106418,
+        "author": "Trumpet",
+        "author_id": "UCsS2LDsO6SkiaK5nbcpuHjg",
+        "text": "You playing with people tonight? Hope all's okay🫡",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1674106765,
+        "author": "Jon Rando",
+        "author_id": "UChlD775gL_Jnqt_D3W9motw",
+        "text": "Yo Jordie! Watchin you got me back to COD:beaming_face_with_smiling_eyes: Keep fraggin fools",
+        "usd": 9.99
+    },
+    {
+        "event": "superchat",
+        "time": 1674106781,
+        "author": "Butt Orwhatsver",
+        "author_id": "UCopxjvFucYKuHqq8v4WSICg",
+        "text": "Add me I’ll play ",
+        "usd": 4.99
+    },
+    {
+        "event": "superchat",
+        "time": 1674107402,
+        "author": "Tazmo",
+        "author_id": "UC6yzWC9ld9ZIBF_uBa6uSNg",
+        "text": "This will be charged back",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1674108419,
+        "author": "Tazmo",
+        "author_id": "UC6yzWC9ld9ZIBF_uBa6uSNg",
+        "text": "Stop camping ",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1674109969,
+        "author": "J M",
+        "author_id": "UCL1pwrK1MOrtB_DaCi9o7kg",
+        "text": "Wings, my man. Heres a good pay day. Check out the movie, \"Singing in the Rain\" Lets us know your thoughts on it on a future stream. Youre the man",
+        "usd": 10.0
+    },
+    {
+        "event": "superchat",
+        "time": 1674110573,
+        "author": "J M",
+        "author_id": "UCL1pwrK1MOrtB_DaCi9o7kg",
+        "text": "Hey Wings, another payday my man. You wouldnt say your thoughts on Singing in the rain for some reason. Totally fine. Thoughts on Zoolander though? ",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1674110791,
+        "author": "J M",
+        "author_id": "UCL1pwrK1MOrtB_DaCi9o7kg",
+        "text": "Is there a reason why you wont talk about singin in the rain? Genuine question. ",
+        "usd": 5.0
+    },
+    {
+        "event": "end",
+        "time": 1674112814,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 56.63000000000001
+    }
+]
