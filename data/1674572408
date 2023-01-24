@@ -1,0 +1,74 @@
+[
+    {
+        "event": "start",
+        "time": 1674572408,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1674572892,
+        "author": "ATO Beats Alt Acc",
+        "author_id": "UC_g8NbnznMD7NdfII-k8U7w",
+        "text": "good morning pimp ",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1674573408,
+        "author": "heartof115",
+        "author_id": "UCfU8ESXXZdrCrx18gJ3o6PA",
+        "text": "Why’d u private all the fallout videos that used to be on here?",
+        "usd": 4.99
+    },
+    {
+        "event": "superchat",
+        "time": 1674573659,
+        "author": "LummoxGotBlacked",
+        "author_id": "UCrzRBlFW1G5J9wYqz_D9m0w",
+        "text": "Hey J, how you like the new warzone map?",
+        "usd": 4.99
+    },
+    {
+        "event": "superchat",
+        "time": 1674574466,
+        "author": "Crypto Moonlight",
+        "author_id": "UCvzizDcn5sdIJxpITz4Yq3w",
+        "text": "Whatup pimp",
+        "usd": 14.92
+    },
+    {
+        "event": "superchat",
+        "time": 1674574748,
+        "author": "S Miller",
+        "author_id": "UCmGlEAdPdIxlg-cKzmAtKSw",
+        "text": "That made my day running into you on shipment just now. Big ups",
+        "usd": 7.46
+    },
+    {
+        "event": "superchat",
+        "time": 1674577202,
+        "author": "Elons Musk",
+        "author_id": "UCTKw6P0aw0L-AdhEsopNUhA",
+        "text": "Did you know you have DENTS as mods?",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1674582849,
+        "author": "respergu",
+        "author_id": "UCFTleus_uceYD-7zJX7CCeQ",
+        "text": "Mr Wings! Alanah will be boxing in april, Creator Clash 2 !!! :fire:Ready to watch some streamers fight !!!!",
+        "usd": 5.0
+    },
+    {
+        "event": "end",
+        "time": 1674583904,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 44.35
+    }
+]
