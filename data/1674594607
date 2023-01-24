@@ -1,0 +1,74 @@
+[
+    {
+        "event": "start",
+        "time": 1674594607,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1674598633,
+        "author": "Krasko",
+        "author_id": "UCyhHH4ED-3_Kpx5VHJfaEYw",
+        "text": "None",
+        "usd": 0.7
+    },
+    {
+        "event": "superchat",
+        "time": 1674600238,
+        "author": "Tyakack",
+        "author_id": "UCU6VncOmcNmtpghbtA6k4cA",
+        "text": "I have to agree. Only kid rock song I found that I like is the one you are famous for rapping lmao. ",
+        "usd": 20.0
+    },
+    {
+        "event": "superchat",
+        "time": 1674600287,
+        "author": "Tea2",
+        "author_id": "UCLYHH5pkDytPxusWiaqDP4w",
+        "text": "can I call Tea mommy? don't ban",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1674600400,
+        "author": "Tea2",
+        "author_id": "UCLYHH5pkDytPxusWiaqDP4w",
+        "text": "having fun means I'm trolling? sorry ty",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1674601029,
+        "author": "dillon ashman",
+        "author_id": "UCLJ4Wcai_g9txsKj75hwNbQ",
+        "text": "sup jordan, please can i get a shoutout for my man dylan burrows? hes confined to a wheelchair but just unlocked orion big up pimp",
+        "usd": 5.54
+    },
+    {
+        "event": "superchat",
+        "time": 1674601085,
+        "author": "S Miller",
+        "author_id": "UCmGlEAdPdIxlg-cKzmAtKSw",
+        "text": "Damn Wings, I can't believe I ran into you once let alone twice today, gg's couldn't compete with you and your squad lol",
+        "usd": 7.48
+    },
+    {
+        "event": "superchat",
+        "time": 1674601231,
+        "author": "Tea2",
+        "author_id": "UCLYHH5pkDytPxusWiaqDP4w",
+        "text": "Can I get a shoutout for my mommy Tea? She always shows up and is positive for the stream",
+        "usd": 5.0
+    },
+    {
+        "event": "end",
+        "time": 1674602818,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 42.72
+    }
+]
