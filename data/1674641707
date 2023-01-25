@@ -1,0 +1,26 @@
+[
+    {
+        "event": "start",
+        "time": 1674641707,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1674641707,
+        "author": "Krasko",
+        "author_id": "UCyhHH4ED-3_Kpx5VHJfaEYw",
+        "text": "None",
+        "usd": 0.7
+    },
+    {
+        "event": "end",
+        "time": 1674649743,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.7
+    }
+]
