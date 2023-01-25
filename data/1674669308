@@ -1,0 +1,106 @@
+[
+    {
+        "event": "start",
+        "time": 1674669308,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1674669639,
+        "author": "Charles",
+        "author_id": "UCU-tnmlCKtMU6ib6zT-ZbjA",
+        "text": "I beat the donation goal lets gooo",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1674675689,
+        "author": "Tyler Fuchs",
+        "author_id": "UCYMJlAlKS7zobbfbt5Vk7Mw",
+        "text": "Sup Jordie what goes on",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1674676270,
+        "author": "Elons Musk",
+        "author_id": "UCTKw6P0aw0L-AdhEsopNUhA",
+        "text": "Do I smell bro?",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1674676561,
+        "author": "Tyler Fuchs",
+        "author_id": "UCYMJlAlKS7zobbfbt5Vk7Mw",
+        "text": "Are you gonna play the Dead Space remake",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1674676908,
+        "author": "Tyler Fuchs",
+        "author_id": "UCYMJlAlKS7zobbfbt5Vk7Mw",
+        "text": "You gonna be playing tonight wings or nah",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1674677215,
+        "author": "Tyler Fuchs",
+        "author_id": "UCYMJlAlKS7zobbfbt5Vk7Mw",
+        "text": "I gotta head out Wings it was nice watching you for a bit. See ya man",
+        "usd": 4.99
+    },
+    {
+        "event": "superchat",
+        "time": 1674677271,
+        "author": "John Bono",
+        "author_id": "UC3eLJuTXySWG86FGi7ZsKTg",
+        "text": "Sorry if you've already answered, but considering playing the Dead Space remake? Probably better than Callisto Protocol",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1674680314,
+        "author": "SobbingWhiterun",
+        "author_id": "UCub20fFgftAXkyTtYK2Ufhg",
+        "text": "Big ups Wings, hope this helps",
+        "usd": 6.19
+    },
+    {
+        "event": "superchat",
+        "time": 1674680588,
+        "author": "Graham Robinson",
+        "author_id": "UCIT6Fh2udxi1wX478ENN5yA",
+        "text": "Big ups ✌🏼",
+        "usd": 5.56
+    },
+    {
+        "event": "superchat",
+        "time": 1674680677,
+        "author": "Moonglum85",
+        "author_id": "UCsvOVzk3RHZOcSXplLnMYRQ",
+        "text": "USA USA USA",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1674681476,
+        "author": "Safe Space",
+        "author_id": "UC4fFrp-s94xPGQ-kTKocnbw",
+        "text": "For the future W",
+        "usd": 5.0
+    },
+    {
+        "event": "end",
+        "time": 1674682579,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 41.7
+    }
+]
