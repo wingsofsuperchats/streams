@@ -1,0 +1,58 @@
+[
+    {
+        "event": "start",
+        "time": 1674632107,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1674633293,
+        "author": "Shane Sizzle",
+        "author_id": "UCypyH-6WpMYdY6e7g8Uezwg",
+        "text": "how much better is the ps5... than the ps4... to play mw2 ",
+        "usd": 10.0
+    },
+    {
+        "event": "superchat",
+        "time": 1674633390,
+        "author": "BrokeSydePhil",
+        "author_id": "UC1_ODxiTAJwsKhxQZy0-zmQ",
+        "text": "morning pimp",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1674633454,
+        "author": "Shane Sizzle",
+        "author_id": "UCypyH-6WpMYdY6e7g8Uezwg",
+        "text": "Thanks",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1674634293,
+        "author": "Philgood_Productions",
+        "author_id": "UCdXE_cHd5OYd22fBoVkLTBw",
+        "text": "Don't let these dull minded children get you down pimp. If you need a legit mod holla at me playa.",
+        "usd": 3.55
+    },
+    {
+        "event": "superchat",
+        "time": 1674634874,
+        "author": "Tyler Mc",
+        "author_id": "UCrAkm_rCzJwJpP_PtBefxcw",
+        "text": "I’m out gotta sleep take care wings and chat",
+        "usd": 2.09
+    },
+    {
+        "event": "end",
+        "time": 1674637196,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 22.64
+    }
+]
