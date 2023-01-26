@@ -1,0 +1,98 @@
+[
+    {
+        "event": "start",
+        "time": 1674718808,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1674718808,
+        "author": "Jackacake1892",
+        "author_id": "UCeAFTVlm2L8d-zOOmU2RM0Q",
+        "text": "glad to see you back on dark souls and single play",
+        "usd": 2.48
+    },
+    {
+        "event": "superchat",
+        "time": 1674718912,
+        "author": "Battle Scar Gaming",
+        "author_id": "UCDqHS2y8GxHVDo4K6NJBMBQ",
+        "text": "None",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1674718937,
+        "author": "shingo",
+        "author_id": "UCPlS2VZlQAphvl1ngNJAOEQ",
+        "text": "Morning Jordie, just wanted to say a quick hello, it’s late here but I hope you’ll be able to get your account back soon. Wishing you all the best",
+        "usd": 19.99
+    },
+    {
+        "event": "superchat",
+        "time": 1674719025,
+        "author": "ProGunSlinger",
+        "author_id": "UCCkvNzVy-jqJNh5vLCB152A",
+        "text": "Sorry that happened brother. This isn’t much but maybe it will make you feel a little better. Keep your head up pimp. We are in your corner ",
+        "usd": 19.99
+    },
+    {
+        "event": "superchat",
+        "time": 1674719114,
+        "author": "Midnight Mawile",
+        "author_id": "UCzgmVa8JJFjEVWCzskefkqA",
+        "text": "whats the difficulty youre playing at? Hi btw",
+        "usd": 1.49
+    },
+    {
+        "event": "superchat",
+        "time": 1674719776,
+        "author": "Jackacake1892",
+        "author_id": "UCeAFTVlm2L8d-zOOmU2RM0Q",
+        "text": "amazing chest ahead",
+        "usd": 2.48
+    },
+    {
+        "event": "superchat",
+        "time": 1674720010,
+        "author": "MidwestFilms",
+        "author_id": "UCHEskBMKrUA9x8fG5es1JeQ",
+        "text": "None",
+        "usd": 1.0
+    },
+    {
+        "event": "superchat",
+        "time": 1674720478,
+        "author": "Krasko",
+        "author_id": "UCyhHH4ED-3_Kpx5VHJfaEYw",
+        "text": "None",
+        "usd": 0.7
+    },
+    {
+        "event": "superchat",
+        "time": 1674721938,
+        "author": "Daniel Reynolds",
+        "author_id": "UCr_4ntWPvbrsk9dNiekuO7g",
+        "text": "Can we play cod you and me tonight search and destroy or sometime soon!? Thanks!! :^)",
+        "usd": 4.99
+    },
+    {
+        "event": "superchat",
+        "time": 1674723632,
+        "author": "Midnight Mawile",
+        "author_id": "UCzgmVa8JJFjEVWCzskefkqA",
+        "text": "Souls games are better than Sony games, because Sony games seem to lack a lot of the \"gameplay\" perspective of a video game and fill it with cutscenes",
+        "usd": 3.73
+    },
+    {
+        "event": "end",
+        "time": 1674725453,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 58.839999999999996
+    }
+]
