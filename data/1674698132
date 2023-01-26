@@ -1,0 +1,66 @@
+[
+    {
+        "event": "start",
+        "time": 1674698132,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1674698310,
+        "author": "Krasko",
+        "author_id": "UCyhHH4ED-3_Kpx5VHJfaEYw",
+        "text": "None",
+        "usd": 0.7
+    },
+    {
+        "event": "superchat",
+        "time": 1674698495,
+        "author": "Z Jones",
+        "author_id": "UCDhHxe9oBfAC-BXVd-nZLOQ",
+        "text": "Wings if you had to could you do the same job you had at Metglas or is this it for you? Also shoutout WingsTings",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1674699238,
+        "author": "Troybo",
+        "author_id": "UCe_YWKGrBKrbK31S9GAUbbA",
+        "text": "Let’s not even talk about the trolls this stream. They’ve got nothing on you pimp. And your PD knows who you are, they know it’s BS.",
+        "usd": 4.99
+    },
+    {
+        "event": "superchat",
+        "time": 1674700545,
+        "author": "Elons Musk",
+        "author_id": "UCTKw6P0aw0L-AdhEsopNUhA",
+        "text": "After months of unbiased research i find you to have some positive traits and relatable issues. However… DSP is a POS!! Thank you.",
+        "usd": 9.99
+    },
+    {
+        "event": "superchat",
+        "time": 1674700602,
+        "author": "Tea2",
+        "author_id": "UCLYHH5pkDytPxusWiaqDP4w",
+        "text": "welbutrin took your personality. You're still you",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1674701062,
+        "author": "S Miller",
+        "author_id": "UCmGlEAdPdIxlg-cKzmAtKSw",
+        "text": "Good luck tonight pimp. Big ups!",
+        "usd": 7.46
+    },
+    {
+        "event": "end",
+        "time": 1674702601,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 30.14
+    }
+]
