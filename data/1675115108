@@ -1,0 +1,82 @@
+[
+    {
+        "event": "start",
+        "time": 1675115108,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1675115189,
+        "author": "Crypto Moonlight",
+        "author_id": "UCvzizDcn5sdIJxpITz4Yq3w",
+        "text": "Here you are pimp! Finally figured out how to get passed the geo block as travelling and youtube wont let me donate!",
+        "usd": 108.52
+    },
+    {
+        "event": "superchat",
+        "time": 1675115901,
+        "author": "Tomasz Sobocinski",
+        "author_id": "UCFrNvhw5aspQuGbnd1DA1bw",
+        "text": "Mo’ money mo’problems Jordie ",
+        "usd": 2.21
+    },
+    {
+        "event": "superchat",
+        "time": 1675116006,
+        "author": "001FirstRule",
+        "author_id": "UCDg7xKJPHQhHDAEtKzzBU_A",
+        "text": "20 mins in and you’re still talking about trolls..",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1675117777,
+        "author": "Krasko",
+        "author_id": "UCyhHH4ED-3_Kpx5VHJfaEYw",
+        "text": "None",
+        "usd": 0.7
+    },
+    {
+        "event": "superchat",
+        "time": 1675117926,
+        "author": "Blackout",
+        "author_id": "UC7becUUsx-UcJBa2UaZ3zug",
+        "text": "the day you play destiny 2 ill take care of the dono goal",
+        "usd": 10.0
+    },
+    {
+        "event": "superchat",
+        "time": 1675122305,
+        "author": "N S",
+        "author_id": "UCT_Unh_RI2wIUHD_XE_XOMA",
+        "text": "Looking rather dashing my good sir!",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1675122615,
+        "author": "N S",
+        "author_id": "UCT_Unh_RI2wIUHD_XE_XOMA",
+        "text": "Hey pimp , any tips for First home buyers?",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1675123703,
+        "author": "Skip01",
+        "author_id": "UCeM__83sJgp3nkQ04BfX_nA",
+        "text": "For a Sophisticated gentleman's nightly chat ",
+        "usd": 20.0
+    },
+    {
+        "event": "end",
+        "time": 1675125272,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 147.39999999999998
+    }
+]
