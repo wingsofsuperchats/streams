@@ -1,0 +1,58 @@
+[
+    {
+        "event": "start",
+        "time": 1675333807,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1675333807,
+        "author": "Krasko",
+        "author_id": "UCyhHH4ED-3_Kpx5VHJfaEYw",
+        "text": "Had kind of a rough day today. Heres to a good stream",
+        "usd": 22.08
+    },
+    {
+        "event": "superchat",
+        "time": 1675333807,
+        "author": "DevonGarland",
+        "author_id": "UC2UbW-mHQcMpNvSSp-YOptQ",
+        "text": "You’ve been that dawg Jordie since MW2 commentaries. I’m sure you remember me for previous dono’s but keep ya foot on they neck mf P i M P !",
+        "usd": 9.99
+    },
+    {
+        "event": "superchat",
+        "time": 1675335218,
+        "author": "DevonGarland",
+        "author_id": "UC2UbW-mHQcMpNvSSp-YOptQ",
+        "text": "For going off with that sniper earlier in the match! GG",
+        "usd": 4.99
+    },
+    {
+        "event": "superchat",
+        "time": 1675335775,
+        "author": "DevonGarland",
+        "author_id": "UC2UbW-mHQcMpNvSSp-YOptQ",
+        "text": "Mods you owe me one for that timeout frfr; actually READ comments before you try to banhammer instantly. Like I was interacting w Jordie…",
+        "usd": 4.99
+    },
+    {
+        "event": "superchat",
+        "time": 1675336291,
+        "author": "tyler",
+        "author_id": "UCBnIowFRnsAlvTBXr-GyBpA",
+        "text": "None",
+        "usd": 1.0
+    },
+    {
+        "event": "end",
+        "time": 1675339273,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 43.050000000000004
+    }
+]
