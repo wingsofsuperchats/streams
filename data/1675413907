@@ -1,0 +1,114 @@
+[
+    {
+        "event": "start",
+        "time": 1675413907,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1675413907,
+        "author": "Krasko",
+        "author_id": "UCyhHH4ED-3_Kpx5VHJfaEYw",
+        "text": "None",
+        "usd": 0.7
+    },
+    {
+        "event": "superchat",
+        "time": 1675413980,
+        "author": "lummox’s payment",
+        "author_id": "UCnpoudqadGUsheOsrwpuacQ",
+        "text": "yo wings what’s the best washer and dryer I can get? I’ve heard they dont make ‘em like they used to and all this talk about planned obsolescence? ",
+        "usd": 4.99
+    },
+    {
+        "event": "superchat",
+        "time": 1675414892,
+        "author": "spood",
+        "author_id": "UCKfzoLrJlymO1GO2Zawmp5g",
+        "text": "how is the morning going",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1675416183,
+        "author": "MidwestFilms",
+        "author_id": "UCHEskBMKrUA9x8fG5es1JeQ",
+        "text": "Wings hit the griddy fo this 20",
+        "usd": 20.0
+    },
+    {
+        "event": "superchat",
+        "time": 1675416336,
+        "author": "MidwestFilms",
+        "author_id": "UCHEskBMKrUA9x8fG5es1JeQ",
+        "text": "cmon bro hit the griddy",
+        "usd": 100.0
+    },
+    {
+        "event": "superchat",
+        "time": 1675416861,
+        "author": "MidwestFilms",
+        "author_id": "UCHEskBMKrUA9x8fG5es1JeQ",
+        "text": "Best griddy I ever saw no kizzy",
+        "usd": 50.0
+    },
+    {
+        "event": "superchat",
+        "time": 1675418256,
+        "author": "Anthony Johnson",
+        "author_id": "UC-dLOY6j5O5joWj1iReYK8A",
+        "text": "have you played the coop?",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1675419264,
+        "author": "Anthony Johnson",
+        "author_id": "UC-dLOY6j5O5joWj1iReYK8A",
+        "text": "have you beat the corporative campaign? also GG ",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1675419691,
+        "author": "Anthony Johnson",
+        "author_id": "UC-dLOY6j5O5joWj1iReYK8A",
+        "text": "None",
+        "usd": 1.0
+    },
+    {
+        "event": "superchat",
+        "time": 1675419869,
+        "author": "ImYankeeGG",
+        "author_id": "UCcrHX_kfGqjJ2SMnI78rWAw",
+        "text": "Tell him “I’m not here to conversate!”",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1675420425,
+        "author": "Anthony Johnson",
+        "author_id": "UC-dLOY6j5O5joWj1iReYK8A",
+        "text": "None",
+        "usd": 1.0
+    },
+    {
+        "event": "superchat",
+        "time": 1675421449,
+        "author": "Anthony Johnson",
+        "author_id": "UC-dLOY6j5O5joWj1iReYK8A",
+        "text": "ignore me ",
+        "usd": 2.0
+    },
+    {
+        "event": "end",
+        "time": 1675421906,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 193.68
+    }
+]
