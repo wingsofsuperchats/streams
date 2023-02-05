@@ -1,0 +1,122 @@
+[
+    {
+        "event": "start",
+        "time": 1675596308,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1675596308,
+        "author": "Krasko",
+        "author_id": "UCyhHH4ED-3_Kpx5VHJfaEYw",
+        "text": "Good morning ",
+        "usd": 2.07
+    },
+    {
+        "event": "superchat",
+        "time": 1675597743,
+        "author": "SBoaP",
+        "author_id": "UCT-MwF1OMLe78hU9UeQMhyw",
+        "text": "Morning Jordie, hope you’re good my man",
+        "usd": 2.16
+    },
+    {
+        "event": "superchat",
+        "time": 1675598332,
+        "author": "TJ Behemoth",
+        "author_id": "UCUsRZfusymTEHp8n-tQ-DxQ",
+        "text": "Have a great day pimps",
+        "usd": 4.99
+    },
+    {
+        "event": "superchat",
+        "time": 1675598485,
+        "author": "B. Alexander",
+        "author_id": "UClqT-npcMLbHC4xRw_vwnPQ",
+        "text": "Morning hope all goes well today ",
+        "usd": 10.38
+    },
+    {
+        "event": "superchat",
+        "time": 1675598525,
+        "author": "SBoaP",
+        "author_id": "UCT-MwF1OMLe78hU9UeQMhyw",
+        "text": "I’ll get you a copy of HL, should pull some views",
+        "usd": 2.16
+    },
+    {
+        "event": "superchat",
+        "time": 1675599517,
+        "author": "B. Alexander",
+        "author_id": "UClqT-npcMLbHC4xRw_vwnPQ",
+        "text": "Here some extra man ",
+        "usd": 55.37
+    },
+    {
+        "event": "superchat",
+        "time": 1675599678,
+        "author": "B. Alexander",
+        "author_id": "UClqT-npcMLbHC4xRw_vwnPQ",
+        "text": "All goods, yea I’m a silent viewer like watching for the gameplay and then ensure I chuck you some coin for ya time. ",
+        "usd": 5.53
+    },
+    {
+        "event": "superchat",
+        "time": 1675602963,
+        "author": "B. Alexander",
+        "author_id": "UClqT-npcMLbHC4xRw_vwnPQ",
+        "text": "Here some cash for breakfast ",
+        "usd": 10.38
+    },
+    {
+        "event": "superchat",
+        "time": 1675606930,
+        "author": "Extendedm9",
+        "author_id": "UCjyBGKsmnI3PdHkc771ySLg",
+        "text": "Hi wings congrats ",
+        "usd": 9.99
+    },
+    {
+        "event": "superchat",
+        "time": 1675607503,
+        "author": "GrandoReaper",
+        "author_id": "UCKf7LfhrvO_VyI30r4moMyA",
+        "text": "well balanced weapon for breakfast",
+        "usd": 10.0
+    },
+    {
+        "event": "superchat",
+        "time": 1675608842,
+        "author": "Serial Experiments Review",
+        "author_id": "UC2JOMcu3D94VTwdxEpwpeBw",
+        "text": "keep up the great streams pimp!!! :folded_hands: ",
+        "usd": 10.0
+    },
+    {
+        "event": "superchat",
+        "time": 1675609681,
+        "author": "Serial Experiments Review",
+        "author_id": "UC2JOMcu3D94VTwdxEpwpeBw",
+        "text": "hey pimp, whats your favorite movie?",
+        "usd": 10.0
+    },
+    {
+        "event": "superchat",
+        "time": 1675612063,
+        "author": "King of Weebs",
+        "author_id": "UCpbYkYsr7MLtzY86fOi1SoA",
+        "text": "I been playing rainbow six siege for 6 years ",
+        "usd": 1.99
+    },
+    {
+        "event": "end",
+        "time": 1675616443,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 135.01999999999998
+    }
+]
