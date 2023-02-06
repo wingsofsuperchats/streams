@@ -1,0 +1,90 @@
+[
+    {
+        "event": "start",
+        "time": 1675711208,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1675711208,
+        "author": "tyler",
+        "author_id": "UCBnIowFRnsAlvTBXr-GyBpA",
+        "text": "yo how's your day been wings ",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1675711208,
+        "author": "Troybo",
+        "author_id": "UCe_YWKGrBKrbK31S9GAUbbA",
+        "text": "None",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1675711386,
+        "author": "TrillOne817",
+        "author_id": "UCnZclVTrHFCJMO5BnccLCbg",
+        "text": "What’s up Pimpn?",
+        "usd": 9.99
+    },
+    {
+        "event": "superchat",
+        "time": 1675712725,
+        "author": "TrillOne817",
+        "author_id": "UCnZclVTrHFCJMO5BnccLCbg",
+        "text": "Nothing because every day is Valentine’s Day lol",
+        "usd": 9.99
+    },
+    {
+        "event": "superchat",
+        "time": 1675712725,
+        "author": "GitmoChalee",
+        "author_id": "UCdzzd4xV7rywUDspdhh7URQ",
+        "text": "Will you be making an appearance in Boogie’s upcoming documentary? Also how’s your leg pimp? drop a sick freestyle about it ",
+        "usd": 4.99
+    },
+    {
+        "event": "superchat",
+        "time": 1675713064,
+        "author": "GitmoChalee",
+        "author_id": "UCdzzd4xV7rywUDspdhh7URQ",
+        "text": "Get Kelly to massage your dead leg for Valentine’s Day pimp, should help improve the circulation and delay amputation by a few weeks at least ",
+        "usd": 4.99
+    },
+    {
+        "event": "superchat",
+        "time": 1675714460,
+        "author": "J Gaming",
+        "author_id": "UCW6Ctp2qYtQeeKtFLzzTRPw",
+        "text": "can you make a silly face for my dying brother",
+        "usd": 50.0
+    },
+    {
+        "event": "superchat",
+        "time": 1675716358,
+        "author": "Tea2",
+        "author_id": "UCLYHH5pkDytPxusWiaqDP4w",
+        "text": "bojangles loves you kelly",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1675718554,
+        "author": "Troybo",
+        "author_id": "UCe_YWKGrBKrbK31S9GAUbbA",
+        "text": "None",
+        "usd": 1.99
+    },
+    {
+        "event": "end",
+        "time": 1675719050,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 87.94
+    }
+]
