@@ -1,0 +1,58 @@
+[
+    {
+        "event": "start",
+        "time": 1675874258,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1675874838,
+        "author": "Bitcoin",
+        "author_id": "UCGJcN0wDpj17-wVtLOQUvlw",
+        "text": "<3",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1675875217,
+        "author": "1BeerAndImGay",
+        "author_id": "UCtUdkXENnV4GrNfFRlkJ6BQ",
+        "text": "Hey Jordie. Just wanted to give you this dono for making me laugh through the years.",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1675875830,
+        "author": "Joey Stufflebeam",
+        "author_id": "UCJOGjGtSfybtkFoH8k9hD8g",
+        "text": "Yo Wings, any thoughts about shifting content to vlogs like your buccee’s video? Perhaps a podcast or videos where you discuss a topic",
+        "usd": 4.99
+    },
+    {
+        "event": "superchat",
+        "time": 1675876427,
+        "author": "Roy Fletcher Jr.",
+        "author_id": "UCoRGQOHYjetQyarcPm2fG0A",
+        "text": "Good morning friends hope your having a great day. ",
+        "usd": 50.0
+    },
+    {
+        "event": "superchat",
+        "time": 1675877379,
+        "author": "NumbGlobe",
+        "author_id": "UCcuJLNUxc17FdUnbhKoT0OQ",
+        "text": "Shoutout the Throat Goat six70two :goat: ",
+        "usd": 1.99
+    },
+    {
+        "event": "end",
+        "time": 1675881997,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 66.97999999999999
+    }
+]
