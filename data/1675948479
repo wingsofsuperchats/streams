@@ -1,0 +1,106 @@
+[
+    {
+        "event": "start",
+        "time": 1675948479,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1675950447,
+        "author": "tyler",
+        "author_id": "UCBnIowFRnsAlvTBXr-GyBpA",
+        "text": "None",
+        "usd": 1.0
+    },
+    {
+        "event": "superchat",
+        "time": 1675951617,
+        "author": "Brayden Pace",
+        "author_id": "UCe_ge6_7EsA18UcUeYZiipg",
+        "text": "Can I get a PIIIIIEEEEEMP death metal style?",
+        "usd": 4.99
+    },
+    {
+        "event": "superchat",
+        "time": 1675951689,
+        "author": "akedai",
+        "author_id": "UCZL7HjOWcaZVcu6hCbw3bHg",
+        "text": "let's hear a death metal rendition of \"good year blimp\" ",
+        "usd": 10.0
+    },
+    {
+        "event": "superchat",
+        "time": 1675952012,
+        "author": "GrandoReaper",
+        "author_id": "UCKf7LfhrvO_VyI30r4moMyA",
+        "text": "Save some kills for the rest of us pimp",
+        "usd": 10.0
+    },
+    {
+        "event": "superchat",
+        "time": 1675953270,
+        "author": "BaleshNTP",
+        "author_id": "UCWqTG-MKKHnKw8Gvk8Y-GeQ",
+        "text": "Thanks for unbanning me pimp! Ya boy Mario Luigi went HAM and booted me. How's Kelly's weight loss going?",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1675953464,
+        "author": "GrandoReaper",
+        "author_id": "UCKf7LfhrvO_VyI30r4moMyA",
+        "text": "real talk, your mods are costing you money, im nothing but nice and get timed out?",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1675953553,
+        "author": "Jackacake1892",
+        "author_id": "UCeAFTVlm2L8d-zOOmU2RM0Q",
+        "text": "Told you I'm a man of my word, good win",
+        "usd": 6.08
+    },
+    {
+        "event": "superchat",
+        "time": 1675955117,
+        "author": "EpicYarn209 ",
+        "author_id": "UC6INj57WD5RKfrkCypLhzjQ",
+        "text": "Think I’m going to come back to your streams now. I got sick and tired of you being the dictator of Conway no offense. Anyways this seems to be the wings that I use to watch and I’m all for that.",
+        "usd": 99.99
+    },
+    {
+        "event": "superchat",
+        "time": 1675955489,
+        "author": "Tanner Lockett",
+        "author_id": "UCDkLMAOCDDi7d9LCSREB5Jg",
+        "text": "What’s good Wings! Great to see you streaming everyday this week. Go out and get yourself Conways Greatest hits. Hopefully this covers it. Big ups pimp. ",
+        "usd": 49.99
+    },
+    {
+        "event": "superchat",
+        "time": 1675958629,
+        "author": "Putins Bodyguard",
+        "author_id": "UC-9qSC4ZPoExe5uULRYJ9RA",
+        "text": "If i buy you the new hogwarts game will you buy it, you’ll get more viewers",
+        "usd": 4.99
+    },
+    {
+        "event": "superchat",
+        "time": 1675958839,
+        "author": "Putins Bodyguard",
+        "author_id": "UC-9qSC4ZPoExe5uULRYJ9RA",
+        "text": "Pimp please I’ll donate the amount is neededtoplay",
+        "usd": 1.99
+    },
+    {
+        "event": "end",
+        "time": 1675959617,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 199.03000000000003
+    }
+]
