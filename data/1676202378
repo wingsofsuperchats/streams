@@ -1,0 +1,50 @@
+[
+    {
+        "event": "start",
+        "time": 1676202378,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1676202571,
+        "author": "Krasko",
+        "author_id": "UCyhHH4ED-3_Kpx5VHJfaEYw",
+        "text": "pieeeeeeump",
+        "usd": 55.33
+    },
+    {
+        "event": "superchat",
+        "time": 1676203434,
+        "author": "Wraith",
+        "author_id": "UC4sbPjdqoazXoiuDSU7tFqQ",
+        "text": "Just chatting whilst editing :folded_hands: ",
+        "usd": 2.16
+    },
+    {
+        "event": "superchat",
+        "time": 1676205861,
+        "author": "Blaine Bortuga",
+        "author_id": "UCV6K-6XNI6WWntYLBzWlGXw",
+        "text": "big ups liquid richard",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1676206901,
+        "author": "BlackLight",
+        "author_id": "UCPSCozkzGCBjwi9lz0kx_0Q",
+        "text": "name the best Roman emperor",
+        "usd": 2.0
+    },
+    {
+        "event": "end",
+        "time": 1676209502,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 61.489999999999995
+    }
+]
