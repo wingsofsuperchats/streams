@@ -1,0 +1,130 @@
+[
+    {
+        "event": "start",
+        "time": 1677007238,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1677007238,
+        "author": "Jaxson Decker",
+        "author_id": "UC3rYpTwFnHwRMWars4qz4Rw",
+        "text": "Hey pimp do you still play seige these days",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1677007238,
+        "author": "CLR77",
+        "author_id": "UCaYs_HRVeJqCe18qneCtW5g",
+        "text": "What’s this pizza tower everyone talking bout ",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1677007239,
+        "author": "CLR77",
+        "author_id": "UCaYs_HRVeJqCe18qneCtW5g",
+        "text": "Why don’t u use controller on pc for gaming ",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1677007384,
+        "author": "Z Jones",
+        "author_id": "UCDhHxe9oBfAC-BXVd-nZLOQ",
+        "text": "Wings can you provide an update on your HVAC system you had to replace?",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1677007780,
+        "author": "The C Slayer",
+        "author_id": "UCWdMEkggfN046BbXS292m4A",
+        "text": "Hey Jordie can you give a shout-out to my cousin Chris Benoit? Him and his family loves your streams ",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1677007925,
+        "author": "KingN641994",
+        "author_id": "UCm4X7FAODAmKdX46BZ3XB7w",
+        "text": "congrats on your pizza tower stream yesterday pimp you had over 500 veiwers. I'd say it better in views than God of War.",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1677008062,
+        "author": "KingN641994",
+        "author_id": "UCm4X7FAODAmKdX46BZ3XB7w",
+        "text": "It has controller support dude lol",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1677009040,
+        "author": "Krasko",
+        "author_id": "UCyhHH4ED-3_Kpx5VHJfaEYw",
+        "text": "None",
+        "usd": 0.68
+    },
+    {
+        "event": "superchat",
+        "time": 1677009120,
+        "author": "FatalDragons",
+        "author_id": "UC_KiawYoXjYhwSidORinTsQ",
+        "text": "Favorite pizza topping. You cant choose pepperoni ",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1677009306,
+        "author": "Breaking Bingo",
+        "author_id": "UCKlnrWt5jv9pV6lqr2xVkxg",
+        "text": "you Chickens better DONATE!!! ",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1677009621,
+        "author": "Dmac ski",
+        "author_id": "UCNebpkGA4uysWgEOd5zO5eA",
+        "text": "Afternoon, did you see how they have Peeps Pepsi?",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1677009783,
+        "author": "Hearty Quaffer",
+        "author_id": "UCk4l3nllfQAR31Z8ZAjYE2g",
+        "text": "Hey, what are the most common woodland creatures in your area ? Mine are badgers and foxes. Some rabbits too ",
+        "usd": 6.04
+    },
+    {
+        "event": "superchat",
+        "time": 1677009936,
+        "author": "BCM",
+        "author_id": "UCeVG6vv_InecS2_eT7OaK0w",
+        "text": "Hey Wings can you make a high level prediction on the location for Elder Scrolls 6",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1677010494,
+        "author": "Bojangles",
+        "author_id": "UCU9x5VVhS-QghObsTP_yaqA",
+        "text": "Are you okay? Do I need to call a wellness check",
+        "usd": 2.0
+    },
+    {
+        "event": "end",
+        "time": 1677011638,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 42.69
+    }
+]
