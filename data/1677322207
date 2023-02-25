@@ -1,0 +1,98 @@
+[
+    {
+        "event": "start",
+        "time": 1677322207,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1677322207,
+        "author": "Krasko",
+        "author_id": "UCyhHH4ED-3_Kpx5VHJfaEYw",
+        "text": "None",
+        "usd": 0.67
+    },
+    {
+        "event": "superchat",
+        "time": 1677322998,
+        "author": "The World Renowned Historian",
+        "author_id": "UCvHvQlRwthxHOldUhnb4hkQ",
+        "text": "I mostly could have used an episode of Joel and his brother in their bad times when they had to hurt people, would have made the recent episode where Joel and Tommy reconnected make a lot more sense",
+        "usd": 10.0
+    },
+    {
+        "event": "superchat",
+        "time": 1677323232,
+        "author": "Blackout",
+        "author_id": "UC7becUUsx-UcJBa2UaZ3zug",
+        "text": "What happened to us playing yesterday?",
+        "usd": 4.99
+    },
+    {
+        "event": "superchat",
+        "time": 1677323861,
+        "author": "Labyrinth",
+        "author_id": "UCpNXB80c9J6kjy6QeZJYr4w",
+        "text": "None",
+        "usd": 0.99
+    },
+    {
+        "event": "superchat",
+        "time": 1677323925,
+        "author": "Labyrinth",
+        "author_id": "UCpNXB80c9J6kjy6QeZJYr4w",
+        "text": "You sure you don’t wanna play rainbow for $200?",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1677324208,
+        "author": "Labyrinth",
+        "author_id": "UCpNXB80c9J6kjy6QeZJYr4w",
+        "text": "You just dodged a $200 non charged back dono Gn :(",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1677324595,
+        "author": "Dr MELONS",
+        "author_id": "UC0RXeuF9xmP9DoMU7e_w4mA",
+        "text": "Your the goat man",
+        "usd": 4.99
+    },
+    {
+        "event": "superchat",
+        "time": 1677324861,
+        "author": "Dr MELONS",
+        "author_id": "UC0RXeuF9xmP9DoMU7e_w4mA",
+        "text": "Have a good night wings also krasko is the best MOD",
+        "usd": 4.99
+    },
+    {
+        "event": "superchat",
+        "time": 1677324910,
+        "author": "SRH0389",
+        "author_id": "UCsgjQltSmn3PuiFHmWehOZA",
+        "text": "I knew girls 12, 13, 14",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1677328240,
+        "author": "Blackout",
+        "author_id": "UC7becUUsx-UcJBa2UaZ3zug",
+        "text": "Hover over destiny 2 give me the tease",
+        "usd": 4.99
+    },
+    {
+        "event": "end",
+        "time": 1677329462,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 37.6
+    }
+]
