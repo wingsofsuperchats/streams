@@ -1,0 +1,74 @@
+[
+    {
+        "event": "start",
+        "time": 1677515739,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1677516837,
+        "author": "Graham Robinson",
+        "author_id": "UCIT6Fh2udxi1wX478ENN5yA",
+        "text": "Hey Jordie ✌🏼",
+        "usd": 6.0
+    },
+    {
+        "event": "superchat",
+        "time": 1677517152,
+        "author": "Jayne",
+        "author_id": "UCFzHQvEohHDVj5172J-gYQQ",
+        "text": "thoughts on the change in the pace of play in MLB",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1677517935,
+        "author": "Tyno's Gaming",
+        "author_id": "UCH6-lH403ZDNHTbniglUVBw",
+        "text": "great how you explain game play and why. picked up a lot of tips.",
+        "usd": 3.68
+    },
+    {
+        "event": "superchat",
+        "time": 1677518056,
+        "author": "tuuxs",
+        "author_id": "UCmbpcHni-JztJFKtRx13DKw",
+        "text": "can i have permission to swag tf out king wings",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1677518751,
+        "author": "Peter Dangler",
+        "author_id": "UCIoTUVTOZfNassiJDvmni9Q",
+        "text": "What’s up brother, long time viewer! Here’s my activision man, let’s play. gandalfsbigstaff#1468757",
+        "usd": 4.99
+    },
+    {
+        "event": "superchat",
+        "time": 1677519130,
+        "author": "FpsButterGolem",
+        "author_id": "UCthr3nhfYfWJRpciav2rwfA",
+        "text": "You down if I play a few matches?",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1677520099,
+        "author": "Lou Sasshole",
+        "author_id": "UCaLCV4rl1C_LH2-rkSV0qqA",
+        "text": "Does Kelly’s church really talk in tongues?",
+        "usd": 1.99
+    },
+    {
+        "event": "end",
+        "time": 1677523192,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 22.639999999999997
+    }
+]
