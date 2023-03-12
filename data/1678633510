@@ -1,0 +1,18 @@
+[
+    {
+        "event": "start",
+        "time": 1678633510,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1678633990,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    }
+]
